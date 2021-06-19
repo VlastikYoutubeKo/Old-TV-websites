@@ -1,0 +1,343 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+}
+body{
+	text-align: center;
+	background: url(pozadi.gif);
+	background-repeat:repeat-x;
+	color: #000000;
+	font-family: Verdana;
+	font-size: 14px;
+	line-height: 1.3;
+}
+#hlavicka{
+    margin-top: 28px;
+    background: url(hlavicka.png);
+    width: 894px;
+    height: 138px;
+}
+#stranka{
+	background: #ffffff;
+	margin-top: 4px;
+	width: 892px;
+	border: 1px solid #999999;
+}
+#logo{
+    float:left;
+    margin: 30px 0px 0px 10px;
+}
+#tv{
+    float: right;
+    margin-top: -28px;
+    margin-right: -8px;
+}
+#menu{
+background: rgb(125,126,125);
+background: -moz-linear-gradient(top,  rgba(125,126,125,1) 0%, rgba(14,14,14,1) 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(125,126,125,1)), color-stop(100%,rgba(14,14,14,1)));
+background: -webkit-linear-gradient(top,  rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%);
+background: -o-linear-gradient(top,  rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%);
+background: -ms-linear-gradient(top,  rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%);
+background: linear-gradient(to bottom,  rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7d7e7d', endColorstr='#0e0e0e',GradientType=0 );
+
+    color: #ffffff;
+    width: 894px;
+    height: 22px;
+    text-align: left;
+    padding: 5px 0px 0px 0px;
+}
+#menu ul a, a:visited{
+	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
+	height: 22px;
+}
+#menu ul a:hover{
+	text-align: center;
+	color: #ffffff;
+	text-decoration: underline;
+	height: 22px;
+}
+#menu ul li{
+	display: block;
+	float: left;
+	margin-left: 20px;
+  padding-right:5px;
+}
+
+#box{
+	float: left;
+	width: 679px;
+	background: url(box_pozadi.gif);
+	text-align: left;
+	font-size: 13px;
+	border-right: 1px dotted #999999;
+}
+#box2{
+	float: left;
+	width: 679px;
+	min-height: 705px;
+	background: url(box_pozadi.gif);
+	text-align: left;
+	font-size: 13px;
+}
+#box a,a:visited{
+	color: #16418d;
+	text-decoration: none;
+}
+#box a:hover{
+	color: #16418d;
+	text-decoration: underline;
+}
+#box2 a,a:visited{
+	color: #16418d;
+	text-decoration: none;
+}
+#box2 a:hover{
+	color: #16418d;
+	text-decoration: underline;
+}
+#reklama{
+	margin-left: 679px;
+	width: 212px;
+	height: 650px;
+	background: url(reklama_pozadi.gif);
+	text-align: center;
+	padding-top: 50px;	
+}
+#box_text{
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-right: 10px;
+	width: 631px;
+	background: url(ornament.gif) no-repeat center;
+}
+#box_text2{
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-right: 10px;
+	width: 631px;
+	min-height: 680px;
+	background: url(ornament.gif) no-repeat center;
+}
+#box_sedy{
+	float: left;
+}
+
+#box_sedy2{
+	padding: 10px 22px 0px 22px;
+
+	float: right;
+	width: 294px;
+	height: 377px;
+	background: url(box_sedy.gif);
+	text-align: left;
+	font-size: 11px;
+}
+
+#box_modry{
+	float: right;
+}
+#box_modry2{
+	padding: 10px 22px 0px 22px;
+	float: right;
+	width: 294px;
+	height: 377px;
+	background: url(box_modry.gif);
+	text-align: left;
+	font-size: 11px;
+}
+
+h1{
+ color: #ffffff;
+ font-size: 24px;
+ float: left;
+ padding: 60px 0px 0px 20px;
+}
+
+h2{
+	color: #444545;
+	font-size: 12px;
+	padding-bottom: 10px;
+}
+h3{
+	font-size: 10px;
+}
+p{
+	text-align: justify;
+}
+hr{
+ color: #999999;
+ border: 0 none;
+ border-top: 1px solid #999;
+ height: 1px;
+padding-bottom: 5px;
+margin-top: 5px;
+}
+.novinka{
+	padding: 0px 0px 0px 100px;
+}
+.text{
+	padding: 0px 0px 0px 115px;
+	font-size: 11px;
+}
+.info{
+	font-size: 11px;
+	color: #16418d;
+	float: right;
+	font-weight: bold;
+}
+#o{
+	background: url(sedy.gif);
+	width: 628px;
+	height: 53px;
+	margin: 15px 0px 0px -9px;
+	padding: 5px 10px 0px 10px;
+	font-size: 11px;
+	text-align: center;
+}
+#program_levy{
+	float: left;
+	margin-left: 150px;
+	padding-top: 10px;
+	width: 140px;
+	text-align: left;
+	font-size: 10px;
+}
+#program_levy a,a:visited{
+	color: #444545;
+}
+#program_levy a:hover{
+	color: #444545;
+	text-decoration: underline;
+}
+#program_pravy{
+	margin-left: 400px;
+	margin-top: 10px;
+	width: 180px;
+	text-align: left;
+	font-size: 10px;
+}
+#program_pravy a,a:visited{
+	color: #444545;
+}
+#program_pravy a:hover{
+	color: #444545;
+	text-decoration: underline;
+}
+ul li{
+ list-style-type: none;
+}
+.sipka{
+ float: left;
+}
+#tri{
+ margin-left: 500px;
+ margin-top: -58px;
+ width: 150px;
+ text-align: left;
+ font-size: 10px;
+ float: right
+}
+a,a:visited{
+	color: #16418d;
+	text-decoration: none;
+}
+a:hover{
+	color: #16418d;
+	text-decoration: underline;
+}
+.sipka{
+	float: left;
+	border: 0px;
+	margin-bottom: -2px;
+}
+strong{
+	color: #16418d;
+}
+strong.oranzovy{
+	color: #ff8a00;
+}
+
+strong.cerveny{
+	color: #FF0000;
+}
+
+
+
+#paticka{
+	background: #ffffff;
+	color: #777878;
+	height: 25px;
+	font-size: 10px;
+	border-top: 1px solid #999999;
+	text-align: left;
+	padding: 12px 0px 0px 50px;
+}
+#paticka a,a:visited{
+	color: #777878;
+	text-decoration: none;
+}
+#paticka a:hover{
+	color: #777878;
+	text-decoration: underline;
+}
+.paticka{
+	color: #777878;
+	margin: -11px 30px 0px 0px;
+	font-size: 10px;
+	float: right;
+	font-weight: bold;
+}
+#reset
+{
+	border:  0px none;
+	margin:  0px;
+	padding: 0px;
+	float: none;
+	clear: both;
+	width: 0px;
+	height: 0px;
+	line-height: 0px;
+	font-size: 0px;
+}
+#jedna{
+	float: left;
+	margin-left: 30px;
+	padding-top: -1px;
+	width: 150px;
+	text-align: left;
+	font-size: 10px;
+}
+#dva{
+ margin-left: 300px;
+ width: 150px;
+ text-align: left;
+ font-size: 10px;
+}
+#tri{
+	margin-left: 430px;
+	margin-top: -65px;
+	width: 150px;
+	text-align: left;
+	font-size: 10px;
+}
+
+#kontakt{
+	margin-left: 140px;
+	width: 480px;
+}
+#maly{
+	width: 285px;
+}
+img{
+ border: 0px;
+}
+.banner{
+ text-align: center;
+}
+.spoluprace{
+ font-size: 10px;
+}
