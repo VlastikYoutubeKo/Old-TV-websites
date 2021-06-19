@@ -1,0 +1,1261 @@
+a:link{
+  text-decoration: none;
+  color: #F05720;
+}
+
+a:visited{
+ text-decoration: none;
+  color: #F05720;
+}
+a:active{
+text-decoration: none;
+  color: #F05720;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #F05720;
+}
+
+
+Body{
+	background-color: White;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	font-weight: normal;
+}
+
+.center{
+	text-align: center;
+}
+
+.center a:hover{
+	text-align: center;
+	text-decoration: none;
+}
+
+
+#web{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	padding-top: 0px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+#reklama{
+  float: right;
+	width: 140px;
+	height: 1360px;
+	background-color:  #F05720;
+}
+
+.str{
+color: black;
+	font-weight: normal;
+	clear: both;
+	padding-left: 10px;
+	width: 565px;
+}
+
+.strKultura{
+color: black;
+	font-weight: normal;
+	clear: both;
+	padding-left: 10px;
+	width: 565px;
+}
+.strKultura a,strKultura a:hover{
+color: #FA981D;
+	font-weight: normal;
+	clear: both;
+	width: 565px;
+}
+
+.strRegion{
+color: black;
+	font-weight: normal;
+	clear: both;
+	padding-left: 10px;
+	width: 565px;
+}
+
+.strRegion a,strRegion a:hover{
+color: #306436;
+	font-weight: normal;
+	clear: both;
+	width: 565px;
+}
+
+.strSport{
+color: black;
+	font-weight: normal;
+	clear: both;
+	padding-left: 10px;
+	width: 565px;
+}
+
+.strSport a,strSport a:hover{
+color: #1A99D0;
+	font-weight: normal;
+	clear: both;
+	width: 565px;
+}
+.logo{
+padding-top: 20px;
+	width: 180px;
+	height: 67px;
+	padding-left: 12px;
+}
+
+#layout{
+	width: 820px;
+	height: auto;
+	position:absolute;
+}
+#telo{
+	width: 610px;
+	height: auto;
+}
+#prouzek{
+	width: 820px;
+	height: auto;
+	font-weight: bold;
+	font-size: 12px;
+}
+#obsah{
+	width: 610px;
+	height: auto;
+	position:absolute;
+}
+#navigace{
+	width: 190px;
+	height: auto;
+	float: right;
+}
+
+#navigace hr{
+width: 140px;
+height: 3px;
+background-color: #dddddd;
+border-style: none;
+border-color: #dddddd;
+color: #dddddd;
+
+}
+
+#navigace form{
+padding: 0px;
+margin: 0px;
+}
+
+.left2{
+	text-align: left;
+	font-size: 12px;
+	color: Black;
+	width: 150px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-left: 14px;
+	padding-right: 0px;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+.left2 a{
+color:#000000;
+}
+
+.left2 a:hover{
+text-decoration:underline;
+color:#000000;
+}
+.left2 li{
+padding: 0px;
+margin: 0px;
+line-height: 18px;
+height: 18px;
+list-style:none;
+}
+
+.left2 ul{
+padding: 0px;
+margin: 0px;
+}
+
+
+.right{
+width: 160px;
+	font-size: 9px;
+	font-weight: bold;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+
+}
+
+
+#menu{
+ margin-top: 15px;
+	width: 630px;
+	height: 81px;
+	padding: 0px;
+}
+
+#menu img{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	border:none;
+}
+
+.menua{
+	width: 148px;
+	height: 81px;
+	position:absolute;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+.menua img{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	border:none;
+}
+
+.menub{
+	width: 510px;
+	height: 81px;
+	background-image: url(../pictures/menu.jpg);
+	background-repeat: no-repeat;
+	float: right;
+	background-color: #F05720;
+}
+
+.menub ul{
+	 margin-top: 60px;
+	 padding-left: 23px;
+	 margin-left: 23px;
+	 color: White;
+	 margin-bottom: -2px;
+}
+
+
+
+.menub a{
+color: white;
+}
+
+.menub a:hover{
+color: white;
+text-decoration: underline;
+}
+
+.menub a:visited{
+	color: white;
+}
+
+.up{
+background-image: url(../pictures/up.jpg);
+height: 102px;
+width: 610px;
+background-repeat: no-repeat;
+}
+.layout{
+background-image: url(../pictures/layout.jpg);
+width: 610px;
+background-repeat: repeat;
+padding-left: 10px;
+height: 240px;
+}
+
+.layout2{
+background-image: url(../pictures/layout.jpg);
+width: 610px;
+background-repeat: repeat;
+padding-left: 10px;
+min-height: 660px;
+height: auto;
+}
+.reklama{
+background-image: url(../pictures/reklama.jpg);
+height: auto;
+width: 610px;
+padding-top: 0px;
+background-repeat: repeat;
+height: 140px;
+}
+.down{
+background-image: url(../pictures/down.jpg);
+width: 610px;
+height: 36px;
+background-repeat: no-repeat;
+font-weight: bold;
+font-size: 10px;
+padding-left: 15px;
+}
+#pata{
+font-weight: bold;
+font-size: 10px;
+width: 610px;
+padding-top: 20px;
+}
+.orange{
+color: #FF4500;
+}
+
+h1{
+font-family: Impact;
+	font-size: 15px;
+	padding-top: 40px;
+	font-weight: normal;
+}
+
+h2{
+font-family: tahoma;
+	font-size: 12px;
+	padding: 1px;
+	margin: 2px;
+	font-weight: bold;
+}
+
+h2 a:link{
+font-family: tahoma;
+	font-size: 12px;
+	color: Black;
+	font-weight: bold;
+	padding: 0px;
+}
+
+h2 a:visited{
+font-family: tahoma;
+	font-size: 12px;
+	color: Black;
+	font-weight: bold;
+	padding: 0px;
+}
+
+h3 {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+.navi li{
+	 display: inline;
+}
+
+#menu img{
+border: none;
+margin-bottom: 0px;
+padding-bottom: 0px;
+margin-top: 0px;
+padding-top: 0px;
+vertical-align:top; 
+}
+
+
+
+.tv{
+width: 182px;
+height: 142px;
+}
+.table{
+	width: 180px;
+	height: 212px;
+	border: 2px solid;
+	border-color: #dddddd;
+	margin: 5px;
+	float: left;
+	margin-top: 7px;
+	margin-bottom: 12px;
+	font-size: 10px;
+}
+
+.tableSport{
+	width: 180px;
+	height: 212px;
+	border: 2px solid;
+	border-color: #1A99D0;
+	margin: 5px;
+	float: left;
+	margin-top: 7px;
+	margin-bottom: 12px;
+	font-size: 10px;
+}
+
+.tableKultura{
+	width: 180px;
+	height: 212px;
+	border: 2px solid;
+	border-color: #FA981D;
+	margin: 5px;
+	float: left;
+	margin-top: 7px;
+	margin-bottom: 12px;
+	font-size: 10px;
+}
+
+.tableRegion{
+	width: 180px;
+	height: 212px;
+	border: 2px solid;
+	border-color: #F05720;
+	margin: 5px;
+	float: left;
+	margin-top: 7px;
+	margin-bottom: 12px;
+	font-size: 10px;
+}
+
+.table p{
+	margin: 0px;
+	padding: 0px;
+	line-height: 15px;
+}
+
+.text{
+	height: 177px;
+	width: 172px;
+	font-size: 11px;
+	font-family: verdana;
+	padding: 3px;
+}
+
+.text a:hover{
+	text-decoration: underline;
+}
+
+.nadpis{
+background-color: #F05720;
+font-weight: bold;
+width: 175px;
+height: 14px;
+border-color: #F0B9A5;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: White;
+}
+
+.Region{
+background-color: #F05720;
+font-weight: bold;
+width: 175px;
+height: 14px;
+border-color: #F05720;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: White;
+}
+
+
+.RegionUL{
+background-color: #F05720;
+font-weight: bold;
+width: 175px;
+height: 14px;
+border-color: #F05720;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: White;
+}
+
+.RegionTP{
+background-color: #F05720;
+font-weight: bold;
+width: 175px;
+height: 14px;
+border-color: #F05720;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: White;
+}
+
+
+.RegionDC{
+background-color: #F05720;
+font-weight: bold;
+width: 175px;
+height: 14px;
+border-color: #F05720;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: White;
+}
+
+.RegionLT{
+background-color: #F05720;
+font-weight: bold;
+width: 175px;
+height: 14px;
+border-color: #F05720;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: White;
+}
+
+
+.Sport{
+background-color: #1A99D0;
+font-weight: bold;
+width: 175px;
+height: 14px;
+border-color: #1A99D0;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: black;
+}
+
+.Kultura{
+background-color: #FA981D;
+font-weight: bold;
+width: 175px;
+height: 14px;
+border-color: #FA981D;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: black;
+}
+
+
+.vice{
+background-color: #dddddd;
+font-weight: bold;
+width: 174px;
+height: 10px;
+border-color: #dddddd;
+border-width: 1px;
+padding-bottom: 3px;
+padding-left: 7px;
+}
+
+.viceRegion{
+background-color: #F05720;
+font-weight: bold;
+width: 174px;
+height: 10px;
+border-color: #306436;
+border-width: 1px;
+padding-bottom: 3px;
+padding-left: 7px;
+color:#FFFFFF;
+}
+
+.viceRegion a,viceRegion a:hover{
+background-color: #F05720;
+font-weight: bold;
+width: 174px;
+height: 10px;
+border-color: #306436;
+border-width: 1px;
+padding-bottom: 0px;
+padding-left: 0px;
+color: #FFFFFF;
+}
+
+.viceSport{
+background-color: #1A99D0;
+font-weight: bold;
+width: 174px;
+height: 10px;
+border-color: #1A99D0;
+border-width: 1px;
+padding-bottom: 3px;
+padding-left: 7px;
+}
+
+.viceKultura{
+background-color: #FA981D;
+font-weight: bold;
+width: 174px;
+height: 10px;
+border-color: #FA981D;
+border-width: 1px;
+padding-bottom: 3px;
+padding-left: 7px;
+}
+
+.datum{
+	float: right;
+	text-align: right;
+}
+
+.katg{
+	float: left;
+	text-align: left;
+}
+
+.naviR{
+	text-align: left;
+	list-style-type: none;
+	list-style: none;
+}
+
+.table2{
+	width: 570px;
+	min-height: 160px;
+	height: auto;
+	border: 1px solid;
+	border-color: #dddddd;
+	margin: 5px;
+	padding: 3px;
+	font-size: 10px;
+}
+
+.table2 p{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.table2 h2{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.table3{
+	width: 570px;
+	min-height: 160px;
+	height: auto;
+	border: 1px solid;
+	border-color: #dddddd;
+	padding: 3px;
+	font-size: 10px;
+	margin:0px;
+}
+
+.table3 p{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.table3 h2{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.bt{
+	width: 390px;
+	height: 40px;
+	float: right;
+	padding-right: 20px;
+}
+
+.cislo{
+	font-size: 18px;
+	color: red;
+}
+
+.tip{
+	font-size: 11px;
+	color: red;
+}
+
+.text2{
+	height: auto;
+	width: 566px;
+	font-size: 11px;
+	font-family: verdana;
+	padding: 4px;
+}
+
+.archiv{
+background-color: #dddddd;
+font-weight: bold;
+width: 564px;
+border-color: #F0B9A5;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+padding-top: 3px;
+font-family: tahoma;
+font-weight: bold;
+font-size: 11px;
+color: black;
+line-height: 13px;
+height: 13px;
+}
+
+.Tisk{
+background-color: #eeeeee;
+font-weight: bold;
+width: 564px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+padding-top: 3px;
+font-family: tahoma;
+font-weight: bold;
+font-size: 11px;
+color:#000000;
+line-height: 13px;
+height: 13px;
+}
+
+.TiskR{
+	float: right;
+	text-align: right;
+	color:#000000;
+}
+
+.TiskR a,TiskR a:hover{
+	float: right;
+	text-align: right;
+	color:#000000;
+}
+
+.TiskR a:hover{
+	float: right;
+	text-align: right;
+	color:#FF0000;
+}
+
+.TiskL{
+	float: left;
+	text-align: left;
+}
+
+.TiskL a,.TiskL a:hover{
+	color:#000000;
+}
+
+.archivR{
+	float: right;
+	text-align: right;
+}
+
+.archivL{
+	float: left;
+	text-align: left;
+}
+
+.Region3, .Region3 a,.Region3 a:hover{
+font-weight: bold;
+width: 564px;
+height: 14px;
+border-color: #F0B9A5;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: tahoma;
+font-weight: bold;
+font-size: 12px;
+color: #F05720;
+}
+
+.Sport3, .Sport3 a, .Sport3 a:hover{
+font-weight: bold;
+width: 564px;
+height: 14px;
+border-color: #F0B9A5;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: tahoma;
+font-weight: bold;
+font-size: 12px;
+color:  #1A99D0;
+}
+.Kultura3, .Kultura3 a, .Kultura3 a:hover{
+font-weight: bold;
+width: 564px;
+height: 14px;
+border-color: #F0B9A5;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Tahoma;
+font-weight: bold;
+font-size: 12px;
+color: #FA981D;
+
+}
+
+.nadpis2{
+background-color: #F05720;
+font-weight: bold;
+width: 564px;
+height: 14px;
+border-color: #F0B9A5;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: White;
+}
+
+.Region2{
+background-color: #F05720;
+font-weight: bold;
+width: 564px;
+height: 14px;
+border-color: #F05720;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: White;
+}
+
+.Sport2{
+background-color: #1A99D0;
+font-weight: bold;
+width: 564px;
+height: 14px;
+border-color: #1A99D0;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: black;
+}
+
+.Kultura2{
+background-color: #FA981D;
+font-weight: bold;
+width: 564px;
+height: 14px;
+border-color: #FA981D;
+border-width: 1px;
+padding-bottom: 3px;
+padding-right: 3px;
+padding-left: 3px;
+font-family: Impact;
+font-weight: normal;
+font-size: 13px;
+color: black;
+}
+
+
+.obr{
+	width: 60px;
+	height: 60px;
+	float: left;
+	padding: 4px;
+}
+.red{
+color: Red;
+text-align: center;
+font-weight: bold;
+}
+
+.form{
+	width: 130px;
+	height: 20px;
+	border: 1px solid;
+	border-color: Black;
+}
+
+.textarea{
+	width: 130px;
+	height: 100px;
+	border: 1px solid;
+	border-color: Black;
+}
+
+
+.submit{
+background-color: #F05720;
+color: White;
+	width: 70px;
+	height: 30px;
+}
+
+.form2{
+	width: 160px;
+	height: 20px;
+	border: 1px solid;
+	border-color: Black;
+}
+
+.banner{
+	margin:10px 0 5px 15px;
+	float: left;
+}
+
+.banner2{
+	margin:10px;
+}
+
+.textarea2{
+	width: 160px;
+	height: 130px;
+	border: 1px solid;
+	border-color: Black;
+}
+
+.submit2{
+background-color: #F05720;
+color: White;
+	width: 160px;
+	height: 20px;
+}
+
+.search form{
+	padding: 0px;
+	margin: 0px;
+}
+
+.searchSub{
+	border: 1px solid;
+	border-color:#dddddd;
+	background-repeat: no-repeat;
+	background-color: #F05720;
+	width: 120px;
+	height: 20px;
+	color: White;
+	margin-top:3px;
+}
+	
+.searchSel{
+width: 120px;
+background-color: white;
+color: black;
+vertical-align: top;
+border: 1px solid;
+border-color: #dddddd;
+margin-top: 3px;
+font-size: 12px;
+text-align:center;
+}
+
+
+.searchPole{
+width: 120px;
+height: 19px;
+font-size: 15px;
+margin: 0px;
+padding: 0px;
+vertical-align: top;
+background-color: white;
+color: black;
+border: 1px solid;
+border-color: #dddddd;
+	margin-top: 3px;
+}
+
+.form3{
+	width: 160px;
+	height: 13px;
+	border: none;
+	background-color: White;
+	
+}
+
+.submit3{
+background-color: #dddddd;
+color: black;
+	width: 30px;
+	height: 15px;
+	border: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+#partneri{
+	width: 555px;
+	min-height: 20px;
+	height:auto;
+	margin: 0px;
+	padding: 0px;
+	max-width: 555px;
+	white-space:normal;
+	clear:both;
+}
+
+
+.pata a{
+	color: Black;
+}
+
+.kolo{
+float: right;
+}
+
+.pruh_navi{
+	width: 160px;
+	height: 10px;
+	text-align: left;
+}
+
+.anketa{
+	width: 160px;
+	height: 10px;
+	text-align: left;
+}
+
+#submenu{
+height: 15px;
+padding-left: 125px;
+color:#000000;
+font-weight: normal;
+}
+#submenu ul{
+	 margin-top: 2px;
+	 padding-left: 23px;
+	 margin-left: 23px;
+	 color: black;
+	 margin-bottom: -2px;
+}
+
+#submenu a{
+height: 15px;
+color: black;
+font-weight: normal;
+}
+
+#submenu a:hover{
+height: 15px;
+color: #F05720;
+font-weight: normal;
+text-decoration:underline;
+}
+
+.subm li{
+display:inline;
+}
+
+
+.tablefaq{
+	width: 575px;
+	height: auto;
+	border: 1px solid;
+	border-color: #dddddd;
+	font-size: 12px;
+	font-family: Verdana;
+	margin-top: 7px;
+	margin-right: 10px; 
+	padding: 2px;
+	min-height: 120px;
+}
+
+.nadpis_faq{
+background-color: #F05720;
+font-weight: bold;
+width: 569px;
+height: auto;
+border-color: #CD853F;
+border-width: 1px;
+padding-bottom: 3px;
+padding-top: 2px;
+padding-left: 7px;
+font-weight: normal;
+font-family: Impact;
+font-size: 13px;
+color: White;
+}
+
+.table5{
+	width: 575px;
+	height: auto;
+	border: 1px solid;
+	border-color: #dddddd;
+	font-size: 12px;
+	font-family: Verdana;
+	margin-top: 7px;
+	margin-right: 10px; 
+	padding: 2px;
+	min-height: 120px;
+}
+
+.table5 p{
+margin: 0px;
+padding: 10px;
+}
+
+.nadpis_odkazy{
+background-color: #F05720;
+font-weight: bold;
+width: 569px;
+height: auto;
+border-color: #CD853F;
+border-width: 1px;
+padding-bottom: 3px;
+padding-top: 2px;
+padding-left: 7px;
+font-weight: normal;
+font-family: Impact;
+font-size: 13px;
+color: White;
+}
+.nadpis_odkazy a:hover, .nadpis_odkazy a{
+background-color: #F05720;
+font-weight: bold;
+width: 569px;
+height: auto;
+border-color: #CD853F;
+border-width: 1px;
+padding-bottom: 3px;
+padding-top: 2px;
+padding-left: 7px;
+font-weight: normal;
+font-family: Impact;
+font-size: 13px;
+color: White;
+}
+
+.pics{
+float: right;
+width: 125px;
+height: 80px;
+margin-right: 12px;
+}
+
+
+.tableGal{
+	width: 180px;
+	height: 150px;
+	border: 1px solid;
+	border-color: #eeeeee;
+	font-size: 12px;
+	font-family: Verdana;
+	margin-top: 7px;
+	margin-right: 10px; 
+	padding: 2px;
+	min-height: 120px;
+	float:left;
+	text-align:center;
+	background-color:#eeeeee;
+}
+
+.tableGal p{
+margin:0px;
+padding-top:10px;
+}
+
+.nadpisGal{
+background-color: #dddddd;
+font-weight: bold;
+width: 173px;
+height: auto;
+border-color: #dddddd;
+border-width: 1px;
+padding-bottom: 3px;
+padding-top: 2px;
+padding-left: 7px;
+font-weight: normal;
+font-family: Impact;
+font-size: 13px;
+color: black;
+}
+
+.picsGal{
+width: auto;
+height: auto;
+margin-left: 2px;
+}
+
+#zahlavi{
+width: 577px;
+text-align:center;
+margin-top: 0px;
+padding-top: 0px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+#zahlavi p{
+margin-top: 0px;
+padding-top: 6px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+
+.pdf{
+float: left;
+}
+
+.center{
+margin-left:auto;
+margin-right:auto;
+}
+
+.seznam{
+font-variant:normal;
+font-weight:normal;
+}
+
+.seznam li{
+list-style:none;
+}
+
+.login{
+font-size: 10px;
+width: 400px;
+margin-left:auto;
+margin-right:auto;
+}
+.info{
+font-size: 10px;
+}
+
+.LoginForm{
+width: 110px;
+height: 20px;
+}
+
+.loginSubmit{
+width: 80px;
+height: 20px;
+}
+
+.soutez{
+font-family: Impact;
+	font-size: 14px;
+	padding: 0px;
+	margin: 2px;
+	font-weight: normal;
+	color: #FF4500;
+}
