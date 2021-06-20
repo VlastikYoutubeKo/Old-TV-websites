@@ -4,6 +4,9 @@ This repository has some old TV websites, that are not anymore on internet.
 
 Websites are from [**archive.is / archive.today**](https://archive.is), where they are saved **forever!**
 
+## Needed help!
+**I need help with the home page! If you want to help, contact me creating Issue, or on my [email!](mailto:owner@plainhost.xyz)**
+
 ### Websites
 
 [**Česká Televize 2012**](ceska-televize-2012/)
