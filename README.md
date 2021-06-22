@@ -34,3 +34,9 @@ Websites are from [**archive.is / archive.today**](https://archive.is), where th
 [**UPC Express**](upc-express/)
 
 [**UPC Express 2012**](upc-express-2012/)
+
+
+# Donate!
+[Ko-Fi](https://ko-fi.com/plainhost)
+Other: DM me on discord, or here in discussions
+		
