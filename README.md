@@ -13,9 +13,13 @@ Websites are from [**archive.is / archive.today**](https://archive.is), where th
 
 ### Websites
 
-[**Česká Televize 2012**](ceska-televize-2012/)
+[![Česká Televize 2012](https://www.designportal.cz/obrazek/ceska_televize_2012-10.jpg)](ceska-televize-2012/)
 
-[**Česká Televize TýYo**](ceska-televize-tyyo/)
+**Česká Televize 2012**
+
+[![ČT TyYo](ceska-televize-2012/f667275268d8ce26965b4e2570e4698dbd9b5c31.png)](ceska-televize-tyyo/)
+
+**Česká Televize TyYo**
 
 [**Nova 2012**](nova/)
 
