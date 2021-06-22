@@ -4,6 +4,10 @@ This repository has some old TV websites, that are not anymore on internet.
 
 Websites are from [**archive.is / archive.today**](https://archive.is), where they are saved **forever!**
 
+
+# Discord of the owner of this web/repo:
+[![Discord Profile](https://discord.c99.nl/widget/theme-3/696826147081814027.png)](https://discord.com/users/696826147081814027)
+
 ## Needed help!
 **I need help with the home page! If you want to help, contact me creating Issue, or on my [email!](mailto:owner@plainhost.xyz)**
 
