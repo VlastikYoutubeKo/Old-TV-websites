@@ -40,3 +40,6 @@ Websites are from [**archive.is / archive.today**](https://archive.is), where th
 [Ko-Fi](https://ko-fi.com/plainhost)
 Other: DM me on discord, or here in discussions
 		
+
+## Powered with the power of
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=be2bfb5344d8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
