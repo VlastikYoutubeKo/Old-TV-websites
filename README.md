@@ -37,7 +37,11 @@ Websites are from [**archive.is / archive.today**](https://archive.is), where th
 
 
 # Donate!
-[Ko-Fi](https://ko-fi.com/plainhost)
+[Ko-Fi](http://gestyy.com/epJUad)
+
+
+![Bitcoin](https://i.ibb.co/5snpvZ4/frame.png)
+
 Other: DM me on discord, or here in discussions
 		
 
