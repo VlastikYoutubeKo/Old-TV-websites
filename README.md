@@ -39,6 +39,7 @@ Websites are from [**archive.is / archive.today**](https://archive.is), where th
 # Donate!
 [Ko-Fi](http://gestyy.com/epJUad)
 
+Bitcoin
 
 ![Bitcoin](https://i.ibb.co/5snpvZ4/frame.png)
 
