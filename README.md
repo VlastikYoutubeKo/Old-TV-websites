@@ -42,5 +42,67 @@ Websites are from [**archive.is / archive.today**](https://archive.is), where th
 Other: DM me on discord, or here in discussions
 		
 
-## Powered with the power of
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=be2bfb5344d8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+
+	
+		
+	.	.	.	.	.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.	
+		.
+				
+					
+						
+							
+								
+									
+										
+											
+												
+													
+														
+															
+																
+																	
+																		
+																			
+																				
+																					
+																						
+																							
+																								
+																									
+																										
+																											
+																												
+																													
+
+
+
+## AD
+[![Peer2Profit.com! Earn money by sharing internet!](https://peer2profit.com/img/promo/en/p2p-banner-1000x120.png)](https://peer2profit.com/r/1644936969620bbf090b420/en?campaign=github)
+[![IPRoyal Pawns! Earn money by sharing your bandwith!](https://pawns.iproyal.com/img/b/468.jpg)](https://iproyal.com/pawns?r=menticek)
