@@ -9,7 +9,7 @@ Websites are from [**archive.is / archive.today**](https://archive.is), where th
 [![Discord Profile](https://discord.c99.nl/widget/theme-3/696826147081814027.png)](https://discord.com/users/696826147081814027)
 
 ## Needed help!
-**I need help with the home page! If you want to help, contact me creating Issue, or on my [email!](mailto:owner@plainhost.xyz)**
+**I need help with the home page! If you want to help, contact me creating Issue, or on my [email!](mailto:plainrock@seznam.cz)**
 
 ### Websites
 
